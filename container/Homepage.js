@@ -7,11 +7,11 @@ export function Homepage() {
         </div>
 
         <Link href= '/People'>
-            <a>People</a>
+            <a style = {{textDecoration: "none"}}>People</a>
         </Link>
 
         <Link href= '/Vehicles'>
-            <a>Vehicles</a>
+            <a style = {{textDecoration: "none"}}>Vehicles</a>
         </Link>
     </>
     )
